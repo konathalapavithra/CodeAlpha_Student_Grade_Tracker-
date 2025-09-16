@@ -107,7 +107,6 @@ Choose an option:
 3. Generate Report
 4. Exit
 Enter choice: 3
-
 === Summary Report ===
 Total Students: 5
 Average Score : 94.40
