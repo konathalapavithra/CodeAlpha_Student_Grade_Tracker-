@@ -2,7 +2,7 @@
 
 # 🎓 Student Grade Tracker
 
-A simple yet powerful Java console application to manage student grades. Built with clean code principles and modular design, this project demonstrates core Java skills including object-oriented programming, data structures, input validation, and report generation.
+A simple yet powerful Java console application to manage student grades. Built with clean code principles and modular design, this project demonstrates core Java skills including object-oriented programming,input validation, and report generation.
 
 ## 🚀 Features
 
@@ -106,12 +106,19 @@ Choose an option:
 2. View All Students
 3. Generate Report
 4. Exit
+   
 Enter choice: 3
+
 === Summary Report ===
+
 Total Students: 5
+
 Average Score : 94.40
+
 Highest Score : 98 (Pavithra)
+
 Lowest Score  : 90 (Sireesha)
+
 ======================
 
 ## 🧠 Future Enhancements
